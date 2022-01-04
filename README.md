@@ -1,7 +1,7 @@
 # Genomic-scripts
 This repository contains scripts for genomic data analysis
 
-Authors: Andrés Blanco Hortas and/or Adrián Casanova Chiclana 
+Authors: Andrés Blanco Hortas and/or Adrián Casanova Chiclana  
 Mail contact: andres.blanco.hortas@usc.es, adrian.casanova@usc.es
 
 ## FlankingRegions.pl
